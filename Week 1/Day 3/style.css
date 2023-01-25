@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(32, 28, 61);
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+  }
+  
+  .flex-container > div {
+    background-color: #adadad;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 5px solid blanchedalmond;
+  }
+
+#hobbies {
+    justify-content: center;
+}
+
+#Name {
+    font-size: 40px;
+}
+
+img {
+    height: 40%;
+    width: 10%;
+}

@@ -1,0 +1,38 @@
+
+body{
+    background-color: palevioletred;
+}
+
+hr{
+    color:red;
+}
+
+form {
+    margin:30px;
+}
+
+
+#li2, #li1, #li3 {
+    color: blue;
+}
+
+#div1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#pp {
+    color: white;
+    padding: 10px;
+    background-color: pink;
+}
+
+#li5 {
+    color: blue;
+}
+
+#pp2 {
+    color: blue;
+    padding: 10px;
+    background-color: lightskyblue;
+}
